@@ -1,6 +1,4 @@
-Here’s a short and simple **README.md** for your project:
 
----
 
 # **Hotel Booking Analysis and Insights**
 
@@ -49,4 +47,4 @@ This project focuses on analyzing hotel booking data to understand trends, booki
 
 ---
 
-Let me know if you'd like additional details or refinements! 🚀
+
